@@ -23,36 +23,20 @@ I love coding and I have been writing code for three years till now , I am passi
 
 <p align="left"> <a href="https://www.github.com/ahmedyasserdev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-<p align="left">
-  <a href="https://www.github.com/ahmedyasserdev" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://uiverse.io/profile/ahmedyasserdev" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" height="32" />
-  </a>
-</p>
-
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ahmedyasserdev"><img src="https://github-readme-stats.vercel.app/api?username=ahmedyasserdev&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=6366f1&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="ahmedyasserdev's GitHub stats" /></a>
+<a href="http://www.github.com/ahmedyasserdev"><img src="https://github-readme-stats.vercel.app/api?username=ahmedyasserdev&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="ahmedyasserdev's GitHub stats" /></a>
 
-<a href="http://www.github.com/ahmedyasserdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedyasserdev&stroke=6366f1&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=6366f1&currStreakLabel=3382ed&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+<a href="http://www.github.com/ahmedyasserdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedyasserdev&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-<a href="http://www.github.com/ahmedyasserdev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmedyasserdev&bg_color=22272e&color=6366f1&line=3382ed&point=6366f1&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ahmedyasserdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyasserdev&langs_count=10&title_color=3382ed&text_color=6366f1&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ahmedyasserdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyasserdev&langs_count=10&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ahmedyasserdev/coffee_shop" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedyasserdev&repo=coffee_shop&title_color=3382ed&text_color=6366f1&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/ahmedyasserdev/fitness" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedyasserdev&repo=fitness&title_color=3382ed&text_color=6366f1&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ahmedyasserdev/coffee_shop" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedyasserdev&repo=coffee_shop&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/ahmedyasserdev/fitness" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedyasserdev&repo=fitness&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/ahmedyasserdev/rest_countries" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedyasserdev&repo=rest_countries&title_color=3382ed&text_color=6366f1&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/ahmedyasserdev/rest_countries" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedyasserdev&repo=rest_countries&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/ahmedyasserdev/lugx_gaming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedyasserdev&repo=lugx_gaming&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
