@@ -32,11 +32,3 @@ I love coding and I have been writing code for three years till now , I am passi
 <a href="http://www.github.com/ahmedyasserdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedyasserdev&stroke=0f172a&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0f172a&currStreakLabel=3382ed&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
 <a href="https://github.com/ahmedyasserdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyasserdev&langs_count=10&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ahmedyasserdev/coffee_shop" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedyasserdev&repo=coffee_shop&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/ahmedyasserdev/fitness" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedyasserdev&repo=fitness&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/ahmedyasserdev/rest_countries" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedyasserdev&repo=rest_countries&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/ahmedyasserdev/lugx_gaming" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedyasserdev&repo=lugx_gaming&title_color=3382ed&text_color=0f172a&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
