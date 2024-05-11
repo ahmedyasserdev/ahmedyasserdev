@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=rubik&size=24&duration=3000&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%2C+I+am+Ahmed+yasser)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=rubik&size=30&duration=3000&pause=1000&color=F7F7F7&random=false&width=800&height=80&lines=Hi+there+%2C+I+am+Ahmed+yasser+a+frontend+developer)](https://git.io/typing-svg)
 ====================================================================================================================================
 
 Frontend Developer
