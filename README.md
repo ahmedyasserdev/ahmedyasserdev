@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed yasser
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=rubik&size=24&duration=3000&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%2C+I+am+Ahmed+yasser)](https://git.io/typing-svg)
 ====================================================================================================================================
 
 Frontend Developer
