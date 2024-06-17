@@ -9,7 +9,7 @@ I love coding and I have been writing code for three years till now , I am passi
 * 🌍  I'm based in Egypt , Alexandria
 * ✉️  You can contact me at [ahmedyasser3033@gmail.com](mailto:ahmedyasser3033@gmail.com)
 * 🧠  I'm learning Nextjs
-* ⚡  I am looking forward to learn React Native
+* ⚡  I am looking forward to learning React Native
 
 ### Skills
 
